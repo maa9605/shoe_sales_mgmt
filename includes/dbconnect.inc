@@ -1,9 +1,9 @@
 <?PHP
 /* Host name of the MySQL server */
 $host = 'localhost';
-/* MySQL account username */
+/* MySQL account username */  - > NEED TO USE A SECRET HERE. 
 $user = 'u108093942_fus_db_user';
-/* MySQL account password */
+/* MySQL account password */ - > NEED TO USE A SECRET HERE. 
 $passwd = 'Claire10';
 /* The schema you want to use */
 $schema = 'u108093942_db_FUS';

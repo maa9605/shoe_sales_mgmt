@@ -1,5 +1,5 @@
 <?php
-//get monthly sales number
+//get monthly sales number 
 $this_month = date("F");
 
 require_once "./includes/dbconnect.inc";

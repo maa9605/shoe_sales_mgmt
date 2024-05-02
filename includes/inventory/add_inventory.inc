@@ -1,6 +1,8 @@
 <?php
+//db include 
 require_once "./includes/dbconnect.inc";
 
+//need to update to parameteize and sanitize inputs
 $sql = "SELECT * FROM tbl_Source";
 $result = mysqli_query($mysqli, $sql);
 ?>
